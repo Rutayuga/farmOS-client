@@ -6,7 +6,7 @@
       </div>
       <input
         v-model="farmosUrl"
-        placeholder="Enter your farmOS URL"
+        placeholder="Enter your outLink URL"
         autofocus
         type="url"
         autocomplete="url"
@@ -53,7 +53,7 @@
       </button>
     </div>
     <br>
-    <p>Need a server? Check out <a href="https://farmos.org/hosting/">hosting options</a>.</p>
+    <p>Need a server? Check out <a href="https://outreachtraders.com/price/">hosting options</a>.</p>
   </div>
 </template>
 
