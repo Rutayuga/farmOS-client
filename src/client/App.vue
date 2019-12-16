@@ -17,7 +17,7 @@
               <p>{{ username}}</p>
             </div>
             <div v-else class="user-info">
-              <h2>Welcome to farmOS</h2>
+              <h2>Welcome to outLink</h2>
               <p>Login for more options.</p>
             </div>
           </div>
