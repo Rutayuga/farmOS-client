@@ -8,7 +8,7 @@
           <h4 class="card-title">Let's Get Started!</h4>
           <p class="card-text">
             You don't have any logs to display yet. Logs are records of events
-            in farmOS. You can add some by clicking the <IconAddCircle class="inline-svg"/>
+            in outLink. You can add some by clicking the <IconAddCircle class="inline-svg"/>
             icon below, or you can get uncompleted tasks from the server by
             clicking the <IconCloudUpload class="inline-svg"/> icon above.
           </p>
