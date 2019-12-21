@@ -122,7 +122,7 @@ export default {
     useGeolocation: state => state.shell.settings.useGeolocation,
     farmName: state => state.farm.name,
     // Provide an example url for the dev server environment
-    farmUrl: state => ((state.farm.url === '') ? 'example.farmos.net' : state.farm.url),
+    farmUrl: state => ((state.farm.url === '') ? 'example.farm.net' : state.farm.url),
   }),
   watch: {
     showDrawer(currentShowDrawer) {
